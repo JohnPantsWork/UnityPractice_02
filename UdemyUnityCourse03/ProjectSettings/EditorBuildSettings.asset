@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Under.unity
     guid: eeeab059848d7c74c862ecba056df316
+  - enabled: 1
+    path: Assets/Scenes/MoveingObstacle.unity
+    guid: 24a685a33ee482141880f8c24e18cc13
+  - enabled: 1
+    path: Assets/Scenes/Waving.unity
+    guid: 1d84cfe9750dbf147b5d8992898ee9a7
+  - enabled: 1
+    path: Assets/Scenes/MovingGap.unity
+    guid: a0dcb5eb880bbe842b0bfb5232fd92fc
   m_configObjects: {}
