@@ -1,4 +1,4 @@
-# UnityPractice_02
+# UnityPractice_02_rocketboost
 Udemy course practice project.
 
 play online
